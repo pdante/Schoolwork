@@ -68,7 +68,10 @@ public class StockWatcher implements EntryPoint {
 					}
 				});
 	}
-
+	
+	private void theBestFakeMethod(){
+		
+	}
 	private void loadLogin() {
 		// Assemble login panel.
 		int fakeCode;
